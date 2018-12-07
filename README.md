@@ -32,11 +32,10 @@ Vulnerability #2: Username Enumeration
 <a href="https://imgur.com/MraoSeK"><img src="https://i.imgur.com/MraoSeK.gif" title="source: imgur.com" /></a>
 
 
-## Red
 
 Vulnerability #1: Cross-Site Request Forgery (CSRF)
 <a href="https://imgur.com/Nrp7giW"><img src="https://i.imgur.com/Nrp7giW.gif" title="source: imgur.com" /></a>
 
-Vulnerability #2: __________________
+Vulnerability #2: Insecure Direct Object Reference
 <a href="https://imgur.com/c9JGdJ1"><img src="https://i.imgur.com/c9JGdJ1.gif" title="source: imgur.com" /></a>
 
