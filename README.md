@@ -20,7 +20,7 @@ Vulnerability #1: __________________
 <a href="https://imgur.com/T0XLgNu"><img src="https://i.imgur.com/T0XLgNu.gif" title="source: imgur.com" /></a>
 
 
-Vulnerability #2: __________________
+Vulnerability #2: SQL Injection (SQLi)
 <a href="https://imgur.com/GeCBBHH"><img src="https://i.imgur.com/GeCBBHH.gif" title="source: imgur.com" /></a>
 
 ## Green
