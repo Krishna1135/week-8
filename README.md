@@ -40,4 +40,3 @@ Vulnerability #1: Cross-Site Forgery (CSRF)
 Vulnerability #2: __________________
 <a href="https://imgur.com/c9JGdJ1"><img src="https://i.imgur.com/c9JGdJ1.gif" title="source: imgur.com" /></a>
 
-
