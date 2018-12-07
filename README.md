@@ -34,7 +34,7 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Cross-Site Forgery (CSRF)
 <a href="https://imgur.com/Nrp7giW"><img src="https://i.imgur.com/Nrp7giW.gif" title="source: imgur.com" /></a>
 
 Vulnerability #2: __________________
