@@ -25,7 +25,7 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Cross-Site Scripting (XSS)
 <a href="https://imgur.com/pg3uGz7"><img src="https://i.imgur.com/pg3uGz7.gif" title="source: imgur.com" /></a>
 
 Vulnerability #2: Username Enumeration
@@ -34,7 +34,7 @@ Vulnerability #2: Username Enumeration
 
 ## Red
 
-Vulnerability #1: Cross-Site Forgery (CSRF)
+Vulnerability #1: Cross-Site Request Forgery (CSRF)
 <a href="https://imgur.com/Nrp7giW"><img src="https://i.imgur.com/Nrp7giW.gif" title="source: imgur.com" /></a>
 
 Vulnerability #2: __________________
