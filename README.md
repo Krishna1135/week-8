@@ -16,7 +16,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: Session Hijacking/Fixation
 <a href="https://imgur.com/T0XLgNu"><img src="https://i.imgur.com/T0XLgNu.gif" title="source: imgur.com" /></a>
 
 
