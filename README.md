@@ -28,7 +28,7 @@ Vulnerability #2: __________________
 Vulnerability #1: __________________
 <a href="https://imgur.com/pg3uGz7"><img src="https://i.imgur.com/pg3uGz7.gif" title="source: imgur.com" /></a>
 
-Vulnerability #2: __________________
+Vulnerability #2: Username Enumeration
 <a href="https://imgur.com/MraoSeK"><img src="https://i.imgur.com/MraoSeK.gif" title="source: imgur.com" /></a>
 
 
